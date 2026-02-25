@@ -1,6 +1,6 @@
 # Exercise 3
 
-Description
+Answers to Exercise 3
 
 ---
 
