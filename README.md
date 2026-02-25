@@ -1,6 +1,6 @@
 # Principles of Programming Lab
 
-Description
+Here will be the answers to the exercises don in principles of programming concepts.
 
 ---
 ## Table Of Contents
