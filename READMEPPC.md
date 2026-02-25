@@ -9,6 +9,6 @@ Description
 
 ### Exercise 2
 
-### Exercise 3
+### [Exercise 3](EXERCISE3.md)
 
-### [Exercise 4]("C:\PPC\PPC GIT\EXERCISE3.md")
+### [Exercise 4]
