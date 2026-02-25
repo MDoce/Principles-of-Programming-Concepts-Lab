@@ -1,19 +1,20 @@
 # Exercise 3
 
-Description
+Answers to Exercise 3
 
 ---
 
 ## Questions
 
 ### Question 1
-![[Pasted image 20260225103624.png]]
+![[EX3Q1_1.png]]
+
 ### Question 2
-![[Pasted image 20260225103747.png]]
+![alt text](EX3Q2_1.png)
 
 ### Question 3
 
-![[Pasted image 20260225104234.png]]
+![alt text](EX3Q3_3.png)
 
 The first statement above shows the count of empty rows within the vets table, 83. The second statement is the query to delete those empty rows, and you can see that 83 rows were affected.
 
@@ -23,7 +24,7 @@ The first statement above shows the count of empty rows within the vets table, 8
 
 ### Question 5
 ![[EX3Q5_1.png]]
-![[EX3Q5_1 1.png]]
+![[EX3Q5_2.png]]
 
 ### Question 6
 ![[EX3Q6_1.png]]
@@ -35,7 +36,7 @@ The first statement above shows the count of empty rows within the vets table, 8
 ![[EX3Q8_1.png]]
 
 ### Question 9
-![[EX3Q8_1 1.png]]
+![[EX3Q8_1.png]]
 
 
 
