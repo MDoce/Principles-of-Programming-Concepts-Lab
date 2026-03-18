@@ -1,4 +1,4 @@
-# Exercise 9 - JDBC Database Connection
+# Exercise 9 - labwork Database Connection
 
 ## Files
 [DBConnection.java](DBConnection.java) - Main program + Sales class
