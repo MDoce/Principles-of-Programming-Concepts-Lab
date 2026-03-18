@@ -13,4 +13,4 @@ Here will be the answers to the exercises don in principles of programming conce
 
 ### [Exercise 4](EXERCISE4.md)
 
-### [Exercise 9](EXERCISE9.md)
+### [Exercise 9](Exercise9.md)
