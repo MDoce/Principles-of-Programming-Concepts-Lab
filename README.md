@@ -12,3 +12,5 @@ Here will be the answers to the exercises don in principles of programming conce
 ### [Exercise 3](EXERCISE3.md)
 
 ### [Exercise 4](EXERCISE4.md)
+
+### [Exercise 9](EXERCISE9.md)
