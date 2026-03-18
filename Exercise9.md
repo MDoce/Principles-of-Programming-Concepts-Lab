@@ -1,7 +1,7 @@
 # Exercise 9 - JDBC Database Connection
 
 ## Files
-- `DBConnection.java` - Main program + Sales class
+[DBConnection.java](DBConnection.java) - Main program + Sales class
 
 ---
 
