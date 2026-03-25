@@ -86,7 +86,7 @@ public class Week10_labs
 
 		//10. find the sum of the data
 		int sum = data.stream().mapToInt(d -> d).sum();     //uses mapToInt so when can then use .sum() and get the sum of all numbers
-		int sum2 = data.stream().mapToInt(Integer::intValue).sum();
+		int sum2 = data.stream().mapToInt(Integer::intValue).sum(); //method reference
 		System.out.println("Sum of data: " + sum);	
 		System.out.println("Sum of data: " + sum2);	
 		System.out.println();			
