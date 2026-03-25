@@ -108,7 +108,7 @@ public class Week10_labs
 		System.out.println();
 
 		//14. increase the value of each element by 5
-		List<Integer> addFive = data.stream().map(d -> d+5).collect(Collectors.toList()); //map() is used to add 5 to each element then we et the list of elements + 5
+		List<Integer> addFive = data.stream().map(d -> d+5).collect(Collectors.toList()); //map() is used to add 5 to each element then we get the list of elements + 5
 		System.out.println("Elements + 5: " + addFive);
 		System.out.println();
 
