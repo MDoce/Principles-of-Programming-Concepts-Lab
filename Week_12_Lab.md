@@ -6,9 +6,9 @@
 ---
 
 ## Output
-![Output](lab12TotalEarnOut.png)
+![Output](12teout.png)
 
-![Output2](lab12TotalCommOut.png)
+![Output2](12tcout.png)
 
 
 
