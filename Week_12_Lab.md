@@ -6,6 +6,9 @@
 ---
 
 ## Output
-![Output](Week12_labsOut.png)
+![Output](lab12TotalEarnOut.png)
+
+![Output2](lab12TotalCommOut.png)
+
 
 
