@@ -15,4 +15,4 @@ Here will be the answers to the exercises don in principles of programming conce
 
 ### [Exercise 9](Exercise9.md)
 
-### [Exercise 10](Exercise10.md)
+### [Week 10 Lab](Week_10_Lab.md)
