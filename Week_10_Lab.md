@@ -1,4 +1,4 @@
-# Exercise 10 
+# Week 10 Lab 
 
 ## Files
 [Week10_labs.java](Week10_labs.java) 
