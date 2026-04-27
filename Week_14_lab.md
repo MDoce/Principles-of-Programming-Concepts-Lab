@@ -1,13 +1,13 @@
 # Week 14 Lab
 
 ## Files
-[Week14_labs.java](Lab14_1a.java) 
-[Week14_labs.java](Lab14_1b.java) 
-[Week14_labs.java](Lab14_2a.java) 
-[Week14_labs.java](Lab14_2b.java) 
-[Week14_labs.java](Lab14_2c.java) 
-[Week14_labs.java](Lab14_2d.java) 
-[Week14_labs.java](Lab14_3a.java) 
+[1a](Lab14_1a.java) /nl
+[1b](Lab14_1b.java) 
+[2a](Lab14_2a.java) 
+[2b](Lab14_2b.java) 
+[2c](Lab14_2c.java) 
+[2d](Lab14_2d.java) 
+[3a](Lab14_3a.java) 
 
 
 ---
