@@ -1,7 +1,8 @@
 # Week 14 Lab
 
 ## Files
-[1a](Lab14_1a.java) /nl
+[1a](Lab14_1a.java) 
+
 [1b](Lab14_1b.java) 
 [2a](Lab14_2a.java) 
 [2b](Lab14_2b.java) 
