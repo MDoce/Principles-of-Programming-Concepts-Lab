@@ -19,9 +19,12 @@
 ---
 
 ## Output
-![Output](12teout.png)
+![Output1](out14_1.png)
 
-![Output2](12tcout.png)
+![Output2](out14_2.png)
+
+![Output3](out14_3.png)
+
 
 
 
