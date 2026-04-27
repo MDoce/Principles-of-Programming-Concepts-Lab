@@ -25,6 +25,10 @@
 
 ![Output3](out14_3.png)
 
+---
+
+## Graph
+![Graph1](graph14_3.png)
 
 
 
