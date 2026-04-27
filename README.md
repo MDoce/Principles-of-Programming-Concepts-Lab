@@ -19,5 +19,5 @@ Here will be the answers to the exercises don in principles of programming conce
 
 ### [Week 12 Lab](Week_12_Lab.md)
 
-### [Week 14 Lab](Week_14_Lab.md)
+### [Week 14 Lab](Week_14_lab.md)
 
